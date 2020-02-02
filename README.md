@@ -1,16 +1,12 @@
 # iosd_1
 
-IOSD Web Task Phase
+IOSD App Web Task Phase
 
-## Getting Started
+Used Flutter to build this interface.
 
-This project is a starting point for a Flutter application.
+Edited launch background for getting the Splash screen..
+Used the splash screen concept this for the first time...
 
-A few resources to get you started if this is your first Flutter project:
+Rest of it was making two dart files for the two login and profile details page.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Used gradients and box shadows to make the interface look attractive.
