@@ -1,6 +1,6 @@
 # iosd_1
 
-IOSD App Web Task Phase
+IOSD App Dev Task Phase
 
 Used Flutter to build this interface.
 
